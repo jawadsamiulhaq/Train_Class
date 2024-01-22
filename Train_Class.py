@@ -16,7 +16,7 @@ class Train():
             self.seats = self.seats - 1
         else:
             print("-------------------------------------")
-            print("Sorry! No More Tickets Are Availablee")
+            print("Sorry! No More Tickets Are Available")
     def cancelTicket(self):
         self.seats = self.seats + 1
         
