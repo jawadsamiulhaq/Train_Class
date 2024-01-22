@@ -21,7 +21,11 @@ class Train():
         self.seats = self.seats + 1
         
         print(f"You Cancell YOur Ticket! {self.seatss}")
+<<<<<<< HEAD
 intercity = Train("Hazara ExpressZF",100,90)
+=======
+intercity = Train("Hazara ExpressJ",100,90)
+>>>>>>> 7cd6060987729a9c933d1b162163dd217f2ea0e8
 intercity.getStatus()
 intercity.bookTicket()
 intercity.getStatus()

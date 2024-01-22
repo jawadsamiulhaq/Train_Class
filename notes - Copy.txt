@@ -1,0 +1,2 @@
+read remote :remote Commands (for working on existing remote repository specifically for multiple collaborators):
+in Git Notes Word File
