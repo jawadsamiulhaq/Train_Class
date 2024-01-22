@@ -8,7 +8,7 @@ class Train():
     def getStatus(self):
         print("--------------Train Info------------")
         print(f"Name Of Train Is {self.name}")
-        print(f"Total Number Of Seats Available In {self.name} Is {self.seats}")
+        print(f"Total Number Of Seatss Available In {self.name} Is {self.seats}")
     def bookTicket(self):
         if(self.seats>0):
             print("-----------------------------------")
