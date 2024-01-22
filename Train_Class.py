@@ -20,7 +20,7 @@ class Train():
     def cancelTicket(self):
         self.seats = self.seats + 1
         
-        print(f"You Cancell YOur Ticket! {self.seats} ")
+        print(f"You Cancell YOur Ticket! {self.seats}  ")
 intercity = Train("Hazara Express",100,90)
 intercity.getStatus()
 intercity.bookTicket()
