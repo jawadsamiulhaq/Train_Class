@@ -4,7 +4,7 @@ class Train():
         self.fare = fare 
         self.seats = seats 
     def getFare(self):
-        print(f"The Fare Of Train Is {self.fare}")
+        print(f"The Fare Of Train Is {self.fare} ")
     def getStatus(self):
         print("--------------Train Info------------")
         print(f"Name Of Train Is {self.name}")
